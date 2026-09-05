@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.npz
+*.npy
+*.h5
+*.mat
+*.bmp
+*.csv
+*.png
+results/
+figures/
+cache/
+data/
+models/

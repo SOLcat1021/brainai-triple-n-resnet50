@@ -1,0 +1,16 @@
+name: brainai-resnet50
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - pandas
+  - h5py
+  - pillow
+  - matplotlib
+  - scikit-learn
+  - pytorch
+  - torchvision
